@@ -1,0 +1,962 @@
+[
+  {
+    "posting_date": "29/01/2026",
+    "value_date": "29/01/2026",
+    "description": "CREDIT CARD PAYMNT 14:14:55                  XXXXXXXXXXXX4273",
+    "ref_no": "30668394590",
+    "debit": 2500.0,
+    "credit": 0.0,
+    "balance": 9565.5,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "29/01/2026",
+    "value_date": "29/01/2026",
+    "description": "30668311091 MBTRF AED2000.00 TRF 14:12:48                  OUT TO Kavidu Hashana",
+    "ref_no": "54983061125",
+    "debit": 2000.0,
+    "credit": 0.0,
+    "balance": 12065.5,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "23/01/2026",
+    "value_date": "23/01/2026",
+    "description": "602536374 B/O ZIINA PAYMENT LLC 16:38:26                                                        74",
+    "ref_no": "PHUB6025363",
+    "debit": 0.0,
+    "credit": 475.0,
+    "balance": 14065.5,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "22/01/2026",
+    "value_date": "22/01/2026",
+    "description": "30434572673 MBTRF AED318.51 TRF 15:35:53                  OUT TO Mapyr International",
+    "ref_no": "30434572673",
+    "debit": 318.51,
+    "credit": 0.0,
+    "balance": 13590.5,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "22/01/2026",
+    "value_date": "22/01/2026",
+    "description": "AED TRF Within UAE Charges Incl VAT 15:35:53",
+    "ref_no": "30434572673",
+    "debit": 0.5,
+    "credit": 0.0,
+    "balance": 13909.01,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "14/01/2026",
+    "value_date": "14/01/2026",
+    "description": "LOANRECOVERY- 21:02:25                  EMI:13652007P001001                   001T",
+    "ref_no": "304828226014",
+    "debit": 1330.0,
+    "credit": 0.0,
+    "balance": 13909.51,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "14/01/2026",
+    "value_date": "14/01/2026",
+    "description": "SALARY 15:42:30",
+    "ref_no": "6",
+    "debit": 0.0,
+    "credit": 6600.0,
+    "balance": 15239.51,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "12/01/2026",
+    "value_date": "12/01/2026",
+    "description": "597343547 B/O ZIINA PAYMENT 13:28:08                  LLCEBIL Cash ou AED182.95           47",
+    "ref_no": "PHUB5973435",
+    "debit": 0.0,
+    "credit": 182.95,
+    "balance": 8639.51,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "08/01/2026",
+    "value_date": "08/01/2026",
+    "description": "30043870066 MBTRF AED780.00 TRF 22:15:55                  OUT TO LASANTHA MOHAN KINMAN THUDARALALAGE",
+    "ref_no": "54498787226",
+    "debit": 780.0,
+    "credit": 0.0,
+    "balance": 8456.56,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "08/01/2026",
+    "value_date": "08/01/2026",
+    "description": "595559861 B/O ZIINA PAYMENT 14:46:35                  LLCEBIL Cash ou AED54.95            61",
+    "ref_no": "PHUB5955598",
+    "debit": 0.0,
+    "credit": 54.95,
+    "balance": 9236.56,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "08/01/2026",
+    "value_date": "08/01/2026",
+    "description": "595539054 B/O ZIINA PAYMENT 14:05:39                  LLCEBIL Cash ou AED490.95           54",
+    "ref_no": "PHUB5955390",
+    "debit": 0.0,
+    "credit": 490.95,
+    "balance": 9181.61,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "07/01/2026",
+    "value_date": "07/01/2026",
+    "description": "30007257189 MBTRF AED520.00 TRF 19:58:42                  OUT TO LASANTHA MOHAN KINMAN THUDARALALAGE",
+    "ref_no": "54470213671",
+    "debit": 520.0,
+    "credit": 0.0,
+    "balance": 8690.66,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "07/01/2026",
+    "value_date": "07/01/2026",
+    "description": "CREDIT CARD PAYMNT 10:26:15                  XXXXXXXXXXXX4273",
+    "ref_no": "29988399672",
+    "debit": 3500.0,
+    "credit": 0.0,
+    "balance": 9210.66,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "28/12/2025",
+    "value_date": "28/12/2025",
+    "description": "ATM CASH WDL CHG AT UAE SWITCH 20:45:31                  MEMBER BK                           AFM3",
+    "ref_no": "090231825362",
+    "debit": 2.1,
+    "credit": 0.0,
+    "balance": 12710.66,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "28/12/2025",
+    "value_date": "28/12/2025",
+    "description": "ATM WDL 20:45 DIB LULU HYPMKT LLC 20:45:31                  MAA SHARJAH       AE 000327478      AFM3",
+    "ref_no": "090231825362",
+    "debit": 1400.0,
+    "credit": 0.0,
+    "balance": 12712.76,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "28/12/2025",
+    "value_date": "28/12/2025",
+    "description": "ATM CASH WDL CHG AT UAE SWITCH 20:35:06                  MEMBER BK                           AF57",
+    "ref_no": "090231825362",
+    "debit": 2.1,
+    "credit": 0.0,
+    "balance": 14112.76,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "28/12/2025",
+    "value_date": "28/12/2025",
+    "description": "ATM WDL 20:35 DIB AL HABTOOR 20:35:06                  TOWER-SA SHARJAH        AE          AF57 000544227",
+    "ref_no": "090231825362",
+    "debit": 500.0,
+    "credit": 0.0,
+    "balance": 14114.86,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "27/12/2025",
+    "value_date": "27/12/2025",
+    "description": "ATM CASH WDL CHG AT UAE SWITCH 20:48:49                  MEMBER BK                           AJPR",
+    "ref_no": "090231825361",
+    "debit": 2.1,
+    "credit": 0.0,
+    "balance": 14614.86,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "27/12/2025",
+    "value_date": "27/12/2025",
+    "description": "ATM WDL 20:48 DIB AL HABTOOR 20:48:49                  TOWER-SA SHARJAH        AE          AJPR 000860436",
+    "ref_no": "090231825361",
+    "debit": 500.0,
+    "credit": 0.0,
+    "balance": 14616.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "26/12/2025",
+    "value_date": "26/12/2025",
+    "description": "29607075459 MBTRF AED400.00 TRF 22:53:49                  OUT TO Muhammed Marsook",
+    "ref_no": "29607075459",
+    "debit": 400.0,
+    "credit": 0.0,
+    "balance": 15116.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "26/12/2025",
+    "value_date": "26/12/2025",
+    "description": "AED TRF Within UAE Charges Incl VAT 22:53:49",
+    "ref_no": "29607075459",
+    "debit": 0.5,
+    "credit": 0.0,
+    "balance": 15516.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "21/12/2025",
+    "value_date": "21/12/2025",
+    "description": "29427261172 MBTRF AED80.00 TRF 15:36:28                  OUT TO Suranjan Saumya Kumara",
+    "ref_no": "29427261172",
+    "debit": 80.0,
+    "credit": 0.0,
+    "balance": 15517.46,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "21/12/2025",
+    "value_date": "21/12/2025",
+    "description": "AED TRF Within UAE Charges Incl VAT 15:36:28",
+    "ref_no": "29427261172",
+    "debit": 0.5,
+    "credit": 0.0,
+    "balance": 15597.46,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "19/12/2025",
+    "value_date": "17/12/2025",
+    "description": "PUR 17/12 Q MOBILITY ABU DHABI 12:23:46                  5875",
+    "ref_no": "600851",
+    "debit": 50.0,
+    "credit": 0.0,
+    "balance": 15597.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "18/12/2025",
+    "value_date": "18/12/2025",
+    "description": "29361052202 MBTRF AED5000.00 TRF 14:50:14                  OUT TO Kavidu Hashana",
+    "ref_no": "53974003622",
+    "debit": 5000.0,
+    "credit": 0.0,
+    "balance": 15647.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "17/12/2025",
+    "value_date": "17/12/2025",
+    "description": "29339362059 MBTRF AED100.00 TRF 16:36:48                  OUT TO Kavidu Hashana",
+    "ref_no": "53954097214",
+    "debit": 100.0,
+    "credit": 0.0,
+    "balance": 20647.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "17/12/2025",
+    "value_date": "17/12/2025",
+    "description": "29332545994 MBTRF AED80.00 TRF 12:02:46                  OUT TO GNEI MAREENA CAREEM",
+    "ref_no": "53947192877",
+    "debit": 80.0,
+    "credit": 0.0,
+    "balance": 20747.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "16/12/2025",
+    "value_date": "16/12/2025",
+    "description": "29317840077 MBTRF AED100.00 TRF 18:53:31                  OUT TO GNEI MAREENA CAREEM Posting Date   Value Date               Description              Ref/Cheque No Debit Amount Credit Amount   Balance",
+    "ref_no": "53934195776",
+    "debit": 100.0,
+    "credit": 0.0,
+    "balance": 20827.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "15/12/2025",
+    "value_date": "12/12/2025",
+    "description": "PUR 12/12 Q MOBILITY ABU DHABI 15:38:02                  5875",
+    "ref_no": "466805",
+    "debit": 50.0,
+    "credit": 0.0,
+    "balance": 20927.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "14/12/2025",
+    "value_date": "14/12/2025",
+    "description": "29257380654 MBTRF AED346.00 TRF 11:47:04                  OUT TO GNEI MAREENA CAREEM",
+    "ref_no": "53879499182",
+    "debit": 346.0,
+    "credit": 0.0,
+    "balance": 20977.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "12/12/2025",
+    "value_date": "12/12/2025",
+    "description": "LOANRECOVERY- 21:01:55                  EMI:13652007P001001                  00ER",
+    "ref_no": "304413325346",
+    "debit": 1330.0,
+    "credit": 0.0,
+    "balance": 21323.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "12/12/2025",
+    "value_date": "12/12/2025",
+    "description": "29218622395 MBTRF AED1100.00 TRF 18:10:17                  OUT TO GNEI MAREENA CAREEM",
+    "ref_no": "53847639772",
+    "debit": 1100.0,
+    "credit": 0.0,
+    "balance": 22653.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "12/12/2025",
+    "value_date": "12/12/2025",
+    "description": "SALARY 12:13:15",
+    "ref_no": "6",
+    "debit": 0.0,
+    "credit": 5800.0,
+    "balance": 23753.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "05/12/2025",
+    "value_date": "05/12/2025",
+    "description": "29008339455 MBTRF AED1666.00 TRF 08:12:59                  OUT TO GNEI MAREENA CAREEM",
+    "ref_no": "53662425336",
+    "debit": 1666.0,
+    "credit": 0.0,
+    "balance": 17953.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "04/12/2025",
+    "value_date": "04/12/2025",
+    "description": "CREDIT CARD PAYMNT 22:02:41                  XXXXXXXXXXXX4273",
+    "ref_no": "29001854886",
+    "debit": 3000.0,
+    "credit": 0.0,
+    "balance": 19619.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "04/12/2025",
+    "value_date": "04/12/2025",
+    "description": "UAE SW DCL FEE 03/12 21-46 175875- 09:16:04                  000000",
+    "ref_no": "0000000000",
+    "debit": 2.1,
+    "credit": 0.0,
+    "balance": 22619.96,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "04/12/2025",
+    "value_date": "04/12/2025",
+    "description": "UAE SW DCL FEE 03/12 21-46 175875- 09:16:04                  000000",
+    "ref_no": "0000000000",
+    "debit": 2.1,
+    "credit": 0.0,
+    "balance": 22622.06,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "04/12/2025",
+    "value_date": "04/12/2025",
+    "description": "UAE SW DCL FEE 03/12 22-00 175875- 09:16:04                  000000",
+    "ref_no": "0000000000",
+    "debit": 2.1,
+    "credit": 0.0,
+    "balance": 22624.16,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "03/12/2025",
+    "value_date": "03/12/2025",
+    "description": "ATM WDL 22:08 7840186-GOLD SOUK 22:08:36                  SHARJAH      AE 000000664            AP26",
+    "ref_no": "090231825337",
+    "debit": 800.0,
+    "credit": 0.0,
+    "balance": 22626.26,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "21/11/2025",
+    "value_date": "21/11/2025",
+    "description": "28615032220 MBTRF AED1340.00 TRF 16:17:44                  OUT TO LASANTHA MOHAN KINMAN THUDARALALAGE",
+    "ref_no": "53319639705",
+    "debit": 1340.0,
+    "credit": 0.0,
+    "balance": 23426.26,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "19/11/2025",
+    "value_date": "19/11/2025",
+    "description": "28571846418 MBTRF AED1360.00 TRF 17:31:24                  OUT TO LASANTHA MOHAN KINMAN THUDARALALAGE",
+    "ref_no": "53277264261",
+    "debit": 1360.0,
+    "credit": 0.0,
+    "balance": 24766.26,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "12/11/2025",
+    "value_date": "12/11/2025",
+    "description": "LOANRECOVERY- 21:02:46                  EMI:13652007P001001                  000V",
+    "ref_no": "304424525316",
+    "debit": 1330.0,
+    "credit": 0.0,
+    "balance": 26126.26,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "12/11/2025",
+    "value_date": "12/11/2025",
+    "description": "SALARY 15:43:00",
+    "ref_no": "6",
+    "debit": 0.0,
+    "credit": 5800.0,
+    "balance": 27456.26,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "30/10/2025",
+    "value_date": "30/10/2025",
+    "description": "560133788 B/O NIDHIN CHANDRAN 21:48:13                                                       88",
+    "ref_no": "PHUB5601337",
+    "debit": 0.0,
+    "credit": 180.0,
+    "balance": 21656.26,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "24/10/2025",
+    "value_date": "24/10/2025",
+    "description": "ATM CASH WDL CHG AT UAE SWITCH 20:24:47                  MEMBER BK                            ABYI",
+    "ref_no": "090231825297",
+    "debit": 2.1,
+    "credit": 0.0,
+    "balance": 21476.26,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "24/10/2025",
+    "value_date": "24/10/2025",
+    "description": "ATM WDL 20:24 7840186-GOLD SOUK 20:24:47                  SHARJAH      AE 000000204            ABYI",
+    "ref_no": "090231825297",
+    "debit": 200.0,
+    "credit": 0.0,
+    "balance": 21478.36,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "24/10/2025",
+    "value_date": "24/10/2025",
+    "description": "ATM CASH WDL CHG AT UAE SWITCH 19:46:34                  MEMBER BK                            AAVW",
+    "ref_no": "090231825297",
+    "debit": 2.1,
+    "credit": 0.0,
+    "balance": 21678.36,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "24/10/2025",
+    "value_date": "24/10/2025",
+    "description": "ATM WDL 19:46 7840186-GOLD SOUK 19:46:34                  SHARJAH      AE 000000171            AAVW",
+    "ref_no": "090231825297",
+    "debit": 600.0,
+    "credit": 0.0,
+    "balance": 21680.46,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "24/10/2025",
+    "value_date": "24/10/2025",
+    "description": "ATM CASH WDL CHG AT UAE SWITCH 19:45:36                  MEMBER BK                            AAV5",
+    "ref_no": "090231825297",
+    "debit": 2.1,
+    "credit": 0.0,
+    "balance": 22280.46,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "24/10/2025",
+    "value_date": "24/10/2025",
+    "description": "ATM WDL 19:45 7840186-GOLD SOUK 19:45:36                  SHARJAH      AE 000000170            AAV5",
+    "ref_no": "090231825297",
+    "debit": 5000.0,
+    "credit": 0.0,
+    "balance": 22282.56,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "21/10/2025",
+    "value_date": "21/10/2025",
+    "description": "ATM CASH WDL CHG AT UAE SWITCH 19:01:31                  MEMBER BK                            A7I1",
+    "ref_no": "090231825294",
+    "debit": 2.1,
+    "credit": 0.0,
+    "balance": 27282.56,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "21/10/2025",
+    "value_date": "21/10/2025",
+    "description": "ATM WDL 19:01 King Faizal Br 0884 19:01:31                  Sharjah    AE 000000622              A7I1",
+    "ref_no": "090231825294",
+    "debit": 600.0,
+    "credit": 0.0,
+    "balance": 27284.66,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "17/10/2025",
+    "value_date": "15/10/2025",
+    "description": "PUR 15/10 Amazon ae Dubai 5875 12:35:34",
+    "ref_no": "480519",
+    "debit": 26.59,
+    "credit": 0.0,
+    "balance": 27884.66,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "13/10/2025",
+    "value_date": "13/10/2025",
+    "description": "CDM-Cash Deposit- 14:42:41                                                       96",
+    "ref_no": "575710132531",
+    "debit": 0.0,
+    "credit": 2000.0,
+    "balance": 27911.25,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "13/10/2025",
+    "value_date": "13/10/2025",
+    "description": "CREDIT CARD PAYMNT 13:47:36                  XXXXXXXXXXXX8482",
+    "ref_no": "27620361436",
+    "debit": 145.48,
+    "credit": 0.0,
+    "balance": 25911.25,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "13/10/2025",
+    "value_date": "13/10/2025",
+    "description": "CREDIT CARD PAYMNT 13:47:01                  XXXXXXXXXXXX4273",
+    "ref_no": "27620344594",
+    "debit": 2500.0,
+    "credit": 0.0,
+    "balance": 26056.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "12/10/2025",
+    "value_date": "12/10/2025",
+    "description": "PUR 12/10 LRIL-EMAX DUBAI 5875 17:43:43                                                       DEOR",
+    "ref_no": "090235425285",
+    "debit": 599.0,
+    "credit": 0.0,
+    "balance": 28556.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "11/10/2025",
+    "value_date": "11/10/2025",
+    "description": "LOANRECOVERY- 20:34:04                  EMI:13652007P001001                  000H",
+    "ref_no": "304305525284",
+    "debit": 1330.0,
+    "credit": 0.0,
+    "balance": 29155.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "11/10/2025",
+    "value_date": "11/10/2025",
+    "description": "SALARY 12:42:32",
+    "ref_no": "6",
+    "debit": 0.0,
+    "credit": 5300.0,
+    "balance": 30485.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "04/10/2025",
+    "value_date": "04/10/2025",
+    "description": "ATM WDL 19:33 DIB LULU HYPMKT LLC 19:33:22                  MAA SHARJAH      AE 000056406       AH6E",
+    "ref_no": "090231825277",
+    "debit": 200.0,
+    "credit": 0.0,
+    "balance": 25185.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "03/10/2025",
+    "value_date": "03/10/2025",
+    "description": "27376929091 MBTRF AED1250.00 TRF 22:19:16                  OUT TO Nidhin chandran",
+    "ref_no": "27376929091",
+    "debit": 1250.0,
+    "credit": 0.0,
+    "balance": 25385.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "03/10/2025",
+    "value_date": "03/10/2025",
+    "description": "AED TRF Within UAE Charges Incl VAT 22:19:16",
+    "ref_no": "27376929091",
+    "debit": 0.5,
+    "credit": 0.0,
+    "balance": 26635.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "02/10/2025",
+    "value_date": "02/10/2025",
+    "description": "27345013945 MBTRF B/O VIJITHA 21:12:24                  ULLATTU PARAMBIL",
+    "ref_no": "52150055785",
+    "debit": 0.0,
+    "credit": 150.0,
+    "balance": 26636.23,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "02/10/2025",
+    "value_date": "02/10/2025",
+    "description": "SALARY 18:12:36 Posting Date   Value Date                Description              Ref/Cheque No Debit Amount Credit Amount   Balance",
+    "ref_no": "1",
+    "debit": 0.0,
+    "credit": 5000.0,
+    "balance": 26486.23,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "22/09/2025",
+    "value_date": "22/09/2025",
+    "description": "27033146212 MBTRF AED500.00 TRF 08:43:48                  OUT TO Nidhin chandran",
+    "ref_no": "27033146212",
+    "debit": 500.0,
+    "credit": 0.0,
+    "balance": 21486.23,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "22/09/2025",
+    "value_date": "22/09/2025",
+    "description": "AED TRF Within UAE Charges Incl VAT 08:43:48",
+    "ref_no": "27033146212",
+    "debit": 0.5,
+    "credit": 0.0,
+    "balance": 21986.23,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "20/09/2025",
+    "value_date": "20/09/2025",
+    "description": "26997224492 MBTRF AED4000.00 TRF 11:51:12                  OUT TO Suranjan saumya kumara",
+    "ref_no": "26997224492",
+    "debit": 4000.0,
+    "credit": 0.0,
+    "balance": 21986.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "20/09/2025",
+    "value_date": "20/09/2025",
+    "description": "AED TRF Within UAE Charges Incl VAT 11:51:12",
+    "ref_no": "26997224492",
+    "debit": 0.5,
+    "credit": 0.0,
+    "balance": 25986.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "16/09/2025",
+    "value_date": "16/09/2025",
+    "description": "SALARY 16:12:28",
+    "ref_no": "44",
+    "debit": 0.0,
+    "credit": 5200.0,
+    "balance": 25987.23,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "11/09/2025",
+    "value_date": "11/09/2025",
+    "description": "26803399356 MBTRF AED100.00 TRF 20:32:47                  OUT TO SURANJAN SAUMYA KUMARA RANASINGHA",
+    "ref_no": "26803399356",
+    "debit": 100.0,
+    "credit": 0.0,
+    "balance": 20787.23,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "11/09/2025",
+    "value_date": "11/09/2025",
+    "description": "AED TRF Within UAE Charges Incl VAT 20:32:47",
+    "ref_no": "26803399356",
+    "debit": 0.5,
+    "credit": 0.0,
+    "balance": 20887.23,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "08/09/2025",
+    "value_date": "08/09/2025",
+    "description": "CREDIT CARD PAYMNT 19:27:07                  XXXXXXXXXXXX4273",
+    "ref_no": "26722803448",
+    "debit": 800.0,
+    "credit": 0.0,
+    "balance": 20887.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "03/09/2025",
+    "value_date": "03/09/2025",
+    "description": "ATM WDL 18:27 EMIRATES BANK INTL 18:27:15                  SHARJAH     SHJAE 000005296         ABBD",
+    "ref_no": "090231825246",
+    "debit": 500.0,
+    "credit": 0.0,
+    "balance": 21687.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "02/09/2025",
+    "value_date": "02/09/2025",
+    "description": "26553259710 MBTRF AED22000.00 TRF 10:25:33                  OUT TO JENNIFER EMILY PETRIE",
+    "ref_no": "51420220261",
+    "debit": 22000.0,
+    "credit": 0.0,
+    "balance": 22187.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "02/09/2025",
+    "value_date": "02/09/2025",
+    "description": "AED TRF Within UAE Charges Incl VAT 10:25:33",
+    "ref_no": "51420220261",
+    "debit": 0.5,
+    "credit": 0.0,
+    "balance": 44187.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "02/09/2025",
+    "value_date": "02/09/2025",
+    "description": "26553055955 MBTRF AED750.00 TRF 10:18:44                  OUT TO VIJITHA ULLATTU PARAMBIL",
+    "ref_no": "51420017484",
+    "debit": 750.0,
+    "credit": 0.0,
+    "balance": 44188.23,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "31/08/2025",
+    "value_date": "31/08/2025",
+    "description": "26498807475 MBTRF AED10000.00 TRF 15:28:40                  OUT TO JENNIFER EMILY PETRIE",
+    "ref_no": "26498807475",
+    "debit": 10000.0,
+    "credit": 0.0,
+    "balance": 44938.23,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "31/08/2025",
+    "value_date": "31/08/2025",
+    "description": "AED TRF Within UAE Charges Incl VAT 15:28:39",
+    "ref_no": "26498807475",
+    "debit": 0.5,
+    "credit": 0.0,
+    "balance": 54938.23,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "30/08/2025",
+    "value_date": "28/08/2025",
+    "description": "PUR 28/08 Dubai Smar DUBAI 5875 11:40:54",
+    "ref_no": "474822",
+    "debit": 200.0,
+    "credit": 0.0,
+    "balance": 54938.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "27/08/2025",
+    "value_date": "25/08/2025",
+    "description": "PUR 25/08 Dubai Smar DUBAI 5875 11:32:20",
+    "ref_no": "003727",
+    "debit": 520.0,
+    "credit": 0.0,
+    "balance": 55138.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "27/08/2025",
+    "value_date": "27/08/2025",
+    "description": "CREDIT CARD PAYMNT 09:44:07                  XXXXXXXXXXXX1198",
+    "ref_no": "26372869696",
+    "debit": 228.48,
+    "credit": 0.0,
+    "balance": 55658.73,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "27/08/2025",
+    "value_date": "27/08/2025",
+    "description": "26371248131 MBTRF B/O KAVIDU 08:41:05                  HASHANA RANASINGHE A DON",
+    "ref_no": "51258052068",
+    "debit": 0.0,
+    "credit": 610.0,
+    "balance": 55887.21,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "27/08/2025",
+    "value_date": "27/08/2025",
+    "description": "13652007P001001 - LN DISB 08:09:07                                                    00AA",
+    "ref_no": "091000025239",
+    "debit": 0.0,
+    "credit": 51454.0,
+    "balance": 55277.21,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "26/08/2025",
+    "value_date": "26/08/2025",
+    "description": "ATM CASH WDL CHG AT UAE SWITCH 18:33:39                  MEMBER BK                         A9I6",
+    "ref_no": "090231825238",
+    "debit": 2.1,
+    "credit": 0.0,
+    "balance": 3823.21,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "26/08/2025",
+    "value_date": "26/08/2025",
+    "description": "ATM WDL 18:33 DIB LULU HYPMKT LLC 18:33:39                  MAA SHARJAH      AE 000639734     A9I6",
+    "ref_no": "090231825238",
+    "debit": 5000.0,
+    "credit": 0.0,
+    "balance": 3825.31,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "25/08/2025",
+    "value_date": "25/08/2025",
+    "description": "SALARY 13:43:11",
+    "ref_no": "37",
+    "debit": 0.0,
+    "credit": 5000.0,
+    "balance": 8825.31,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "22/08/2025",
+    "value_date": "22/08/2025",
+    "description": "527002721 B/O ZIINA PAYMENT 14:05:14                  LLCEBIL Compens AED10             21",
+    "ref_no": "PHUB5270027",
+    "debit": 0.0,
+    "credit": 10.0,
+    "balance": 3825.31,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "20/08/2025",
+    "value_date": "20/08/2025",
+    "description": "26219704841 MBTRF AED1500.00 TRF 14:23:51                  OUT TO BINOJ GOPINATH",
+    "ref_no": "51115445330",
+    "debit": 1500.0,
+    "credit": 0.0,
+    "balance": 3815.31,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "18/08/2025",
+    "value_date": "18/08/2025",
+    "description": "26166371064 MBTRF B/O AHAMMED 06:30:01                  RAHOOF THEKKUM PURATH",
+    "ref_no": "51061770772",
+    "debit": 0.0,
+    "credit": 175.0,
+    "balance": 5315.31,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "17/08/2025",
+    "value_date": "17/08/2025",
+    "description": "ATM WDL 19:46 DIB LULU HYPMKT LLC 19:46:13                  MAA SHARJAH       AE 000532942    A8CU",
+    "ref_no": "090231825229",
+    "debit": 100.0,
+    "credit": 0.0,
+    "balance": 5140.31,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "16/08/2025",
+    "value_date": "16/08/2025",
+    "description": "SALARY 15:32:28",
+    "ref_no": "57",
+    "debit": 0.0,
+    "credit": 5200.0,
+    "balance": 5240.31,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "15/08/2025",
+    "value_date": "15/08/2025",
+    "description": "Interest Payout 13652007940001 04:40:37                                                        0001",
+    "ref_no": "304T683AED00",
+    "debit": 0.0,
+    "credit": 20.14,
+    "balance": 40.31,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "12/08/2025",
+    "value_date": "12/08/2025",
+    "description": "CREDIT CARD PAYMNT 19:05:43                  XXXXXXXXXXXX1198",
+    "ref_no": "26048590989",
+    "debit": 40.0,
+    "credit": 0.0,
+    "balance": 20.17,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "12/08/2025",
+    "value_date": "12/08/2025",
+    "description": "CREDIT CARD PAYMNT 19:04:08                  XXXXXXXXXXXX4273",
+    "ref_no": "26048550971",
+    "debit": 2108.15,
+    "credit": 0.0,
+    "balance": 60.17,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "12/08/2025",
+    "value_date": "12/08/2025",
+    "description": "CDM-Cash Deposit- 18:40:38                                                      66",
+    "ref_no": "575708122596",
+    "debit": 0.0,
+    "credit": 1860.0,
+    "balance": 2168.32,
+    "source_file": "AccountStatement (5).pdf"
+  },
+  {
+    "posting_date": "02/08/2025",
+    "value_date": "02/08/2025",
+    "description": "ATM WDL 18:31 Buhairah Br 000007039 18:31:33                                                      AFP4",
+    "ref_no": "051220125214",
+    "debit": 500.0,
+    "credit": 0.0,
+    "balance": 308.32,
+    "source_file": "AccountStatement (5).pdf"
+  }
+]
